@@ -1,0 +1,10 @@
+﻿  4-5.cpp
+C:\Users\w3562\source\repos\4-5\4-5\4-5.cpp(19,35): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\w3562\source\repos\4-5\4-5\4-5.cpp(20,35): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\w3562\source\repos\4-5\4-5\4-5.cpp(31,35): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\w3562\source\repos\4-5\4-5\4-5.cpp(32,35): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\w3562\source\repos\4-5\4-5\4-5.cpp(43,35): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\w3562\source\repos\4-5\4-5\4-5.cpp(44,35): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\w3562\source\repos\4-5\4-5\4-5.cpp(55,35): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\w3562\source\repos\4-5\4-5\4-5.cpp(56,35): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  4-5.vcxproj -> C:\Users\w3562\source\repos\4-5\Debug\4-5.exe
